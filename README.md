@@ -1,7 +1,9 @@
 # 📡 Find WiFi Passwords using Python
 
 A **clean, lightweight Python script** to retrieve saved WiFi SSIDs and their passwords from your own system using **OS command interaction (netsh) and system utilities** on Windows. Useful for recovering forgotten WiFi passwords on your device for educational and personal use.
+
 ---
+
 ## 🎮 Features
 
 ✅ Retrieve All Saved WiFi Networks: Lists all SSIDs saved on your system.
@@ -13,11 +15,15 @@ A **clean, lightweight Python script** to retrieve saved WiFi SSIDs and their pa
 ✅ Educational OS Scripting Practice: Demonstrates Python subprocess handling and parsing system utility output.
 
 ✅ Clear, Readable Output: See all your saved WiFi networks and passwords in a structured way.
+
 ---
+
 ## 🌐 Live Demo
 
 ❌ Not applicable (this is a local OS-based tool).
+
 ---
+
 ## 🚀 Tech Stack
 
 * Python 3.8+
@@ -29,6 +35,7 @@ A **clean, lightweight Python script** to retrieve saved WiFi SSIDs and their pa
 * sys and re for clean parsing and structured output
 
 ---
+
 ## 🛠️ How to Run Locally
 1️⃣ **Clone the repository:**
 
@@ -56,7 +63,9 @@ Password: collegewifi456
 ✅ No additional setup required.
 
 ✅ Works instantly on Windows for learning and personal recovery purposes.
+
 ---
+
 ## 🎯 Why this project?
 
 ✅ Learn Python OS-level scripting using subprocess.
@@ -67,6 +76,8 @@ Password: collegewifi456
 
 ✅ Great small utility project for your resume and GitHub portfolio.
 
+---
+
 ## ⚠️ Warning & Disclaimer
 
 * This script only retrieves WiFi passwords stored on your own Windows machine. It does not hack, crack, or infiltrate WiFi networks.
@@ -74,7 +85,9 @@ Password: collegewifi456
 * Use responsibly on your devices only for educational and personal recovery purposes.
 
 * Misuse of this tool for unauthorized network access is illegal and strictly discouraged.
+  
 ---
+
 ## ✨ Contributing
 
 Contributions, enhancements, or refactors are welcome!
@@ -83,10 +96,14 @@ Feel free to:
 ✅ Open an issue for suggestions or bugs.
 
 ✅ Submit a pull request for improvements.
+
 ---
+
 ## 📝 License
 This project is licensed under the MIT License.
+
 ---
+
 📌 MIT License Summary:
 
 * ✅ Free to use, modify, and distribute with attribution.
