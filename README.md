@@ -104,7 +104,7 @@ This project is licensed under the MIT License.
 
 ---
 
-📌 MIT License Summary:
+## 📌 MIT License Summary:
 
 * ✅ Free to use, modify, and distribute with attribution.
 
